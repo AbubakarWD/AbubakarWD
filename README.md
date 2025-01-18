@@ -1,6 +1,5 @@
-# Hi there, I'm Muhammad Abubakar Khan! 👋
-
-I’m a ** Full Stack Web Developer** with a passion for building responsive and user-friendly websites. With expertise in **PHP & Laravel**, I enjoy creating solutions that blend functionality with design.
+# Hi👋 there, I'm Muhammad Abubakar Khan!
+I’m a **Full Stack Web Developer** with a passion for building responsive and user-friendly websites. With expertise in **PHP & Laravel**, I enjoy creating solutions that blend functionality with design.
 
 ---
 
@@ -35,8 +34,6 @@ All of my projects are available at :
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![PHP](https://img.icons8.com/officel/40/php-logo.png)
 ![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
-
-## Technologies I Work With
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
