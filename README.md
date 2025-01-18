@@ -28,3 +28,13 @@ All of my projects are available at :
 - **LinkedIn**: [muhammadabubakarkhan](https://www.linkedin.com/in/muhammadabubakarkhan)
 - **Portfolio**: [Your Website](https://yourwebsite.com)
 - **Email**: abubakarwebdev22@gmailcom.com
+
+## Technologies I Work With
+
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![PHP](https://img.icons8.com/officel/40/php-logo.png)
+![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
+
