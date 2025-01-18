@@ -1,13 +1,28 @@
-Hi! I’m a Web Developer specializing in HTML, CSS, JavaScript, Bootstrap, PHP, and Laravel. I also have experience in e-commerce platforms and enjoy designing and developing responsive, user-friendly websites.
+# Hi there, I'm Muhammad Abubakar Khan! 👋
+
+I’m a ** Full Stack Web Developer** with a passion for building responsive and user-friendly websites. With expertise in **PHP & Laravel**, I enjoy creating solutions that blend functionality with design.
+
+---
+
+## 💻 Skills
 - **Languages**: HTML, CSS, JavaScript, PHP  
 - **Frameworks**: Bootstrap, Laravel  
-- **Tools**: Git, GitHub, WordPress, Photoshop, Adobe XD  
-- **Other Skills**: Graphic Design, Video Editing
-- My Portfolio :
-- Linkedin : 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
-My Projects :
-    - GymBo Fitness :
-      A modern fitness website with a responsive layout and interactive features. Built using HTML, CSS, and JavaScript.
-    - Pathaneels :
+- **Tools**: Git, GitHub, Photoshop, WordPress  
+- **Other Skills**: Graphic Design, Video Editing, Digital Marketing  
+
+---
+
+## 🌟 Projects
+All of my projects are available at :
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn**: [muhammadabubakarkhan](https://www.linkedin.com/in/muhammadabubakarkhan)
+- **Portfolio**: [Your Website](https://yourwebsite.com)
+- **Email**: abubakarwebdev22@gmailcom.com
