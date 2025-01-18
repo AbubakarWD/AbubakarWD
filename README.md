@@ -28,13 +28,6 @@ All of my projects are available at :
 
 ## Technologies I Work With
 
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![PHP](https://img.icons8.com/officel/40/php-logo.png)
-![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
