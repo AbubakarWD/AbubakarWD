@@ -15,6 +15,9 @@ I’m a ** Full Stack Web Developer** with a passion for building responsive and
 ## 🌟 Projects
 All of my projects are available at :
 ---
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
