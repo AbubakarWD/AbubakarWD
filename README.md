@@ -17,14 +17,14 @@ All of my projects are available at :
 ---
 
 ## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarwd&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 - **LinkedIn**: [muhammadabubakarkhan](https://www.linkedin.com/in/muhammadabubakarkhan)
 - **Portfolio**: [Your Website](https://yourwebsite.com)
-- **Email**: abubakarwebdev22@gmailcom.com
+- **Email**: abubakarwebdev22@gmailcom
 
 ## Technologies I Work With
 
