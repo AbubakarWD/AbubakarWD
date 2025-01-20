@@ -13,7 +13,9 @@ I’m a **Full Stack Web Developer** with a passion for building responsive and 
 
 ## 🌟 Projects
 All of my projects are available at : [The Projects Page](https://abubakarwd.github.io/Portfolio/HTML/projects.html)
+
 ---
+
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarwd&layout=compact&theme=radical)
 
