@@ -22,8 +22,8 @@ All of my projects are available at : [The Projects Page](https://abubakarwd.git
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn**: [muhammadabubakarkhan](https://www.linkedin.com/in/muhammadabubakarkhan)
-- **Portfolio**: [Website](https://abubakarwd.github.io/Portfolio/)
+- **LinkedIn**: [muhammadabubakarkhan](https://www.linkedin.com/in/muhammadabubakarkhan2/)
+- **Portfolio**: [Website](https://www.abubakardev.site/)
 - **Email**: abubakarwebdev22@gmailcom
 
 ## Technologies I Work With
