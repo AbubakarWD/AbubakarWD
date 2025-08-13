@@ -12,7 +12,7 @@ I’m a **Full Stack Web Developer** with a passion for building responsive and 
 ---
 
 ## 🌟 Projects
-All of my projects are available at : [The Projects Page](https://abubakarwd.github.io/Portfolio/HTML/projects.html)
+All of my projects are available at : [The Projects Page](https://www.abubakardev.site/#projects)
 
 ---
 
