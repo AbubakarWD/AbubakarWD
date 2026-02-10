@@ -6,8 +6,7 @@ I’m a **Full Stack Web Developer** with a passion for building responsive and 
 ## 💻 Skills
 - **Languages**: HTML, CSS, JavaScript, PHP  
 - **Frameworks**: Bootstrap, Laravel  
-- **Tools**: Git, GitHub, Photoshop, WordPress  
-- **Other Skills**: Graphic Design, Video Editing, Digital Marketing  
+- **Tools**: Git, GitHub, WordPress  
 
 ---
 
